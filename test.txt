@@ -1,9 +1,5 @@
 Hola mundo
 kgtota
 kgtrump
-<<<<<<< HEAD
 oie cy
-=======
 rama prueba
-
->>>>>>> prueba
